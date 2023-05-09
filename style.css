@@ -1,0 +1,8 @@
+@media( min-width: 768px ){
+    .mail-input {
+        width: 50%;
+    }
+}
+.p-5 cutom-color{
+    background-color: gray;
+}
